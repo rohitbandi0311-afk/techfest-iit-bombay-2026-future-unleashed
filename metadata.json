@@ -1,0 +1,6 @@
+{
+  "name": "TECHFEST IIT BOMBAY 2026 - FUTURE UNLEASHED",
+  "description": "Asia's Largest Science & Technology Festival. Experience the cutting edge of AI, Robotics, Space Tech, and Innovation in an interactive 3D futuristic universe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
